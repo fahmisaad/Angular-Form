@@ -1,7 +1,6 @@
 # Angular Form
 This is an angular project to display a simple form.i have implement validators for each fields
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
 
 ## Development server
 
